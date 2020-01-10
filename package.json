@@ -1,0 +1,27 @@
+{
+    "name": "react-listotron",
+    "version": "1.0.0",
+    "description": "React component for npm that takes an array of objects with a 'name' property and displays a list. Really simple.",
+    "main": "./lib/Listotron.js",
+    "license": "MIT",
+    "scripts": {
+        "build": "webpack"
+    },
+    "peerDependencies": {
+        "prop-types": "^15.7.2",
+        "react": "^16.12.0",
+        "react-dom": "^16.12.0"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.7.7",
+        "babel-loader": "^8.0.6",
+        "@babel/preset-env": "^7.7.7",
+        "@babel/preset-react": "^7.7.4",
+        "path": "^0.12.7",
+        "prop-types": "^15.7.2",
+        "react": "^16.12.0",
+        "react-dom": "^16.12.0",
+        "webpack": "^4.41.5",
+        "webpack-cli": "^3.3.10"
+    }
+}
