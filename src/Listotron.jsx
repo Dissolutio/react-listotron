@@ -14,7 +14,7 @@ const defaultProps = {
         },
         li: {
             background: '#BaDa55',
-            border: '1px solid red'
+            border: '1px solid blue'
         }
     }
 }
